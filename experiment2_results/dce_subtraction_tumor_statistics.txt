@@ -1,0 +1,11 @@
+Tumor Segmentation Statistics
+==================================================
+Patient: TCGA-AO-A03M
+Method: Intensity Thresholding + Morphological Cleanup
+Tumor voxels: 18498
+Tumor volume: 1157368.86 mm3
+Tumor volume: 1157.37 cm3
+Voxel spacing: (1.875, 1.875, 17.796904621101746)
+Slices with tumor: 10
+Slice range: 0 to 9
+Image size: (256, 256, 37)

@@ -1,0 +1,12 @@
+pydicom
+SimpleITK
+numpy
+matplotlib
+nibabel
+pyradiomics
+scikit-learn
+pandas
+openpyxl
+xlrd
+scipy
+Pillow

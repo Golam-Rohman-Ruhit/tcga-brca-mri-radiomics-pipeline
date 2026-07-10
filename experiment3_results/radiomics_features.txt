@@ -1,0 +1,151 @@
+================================================================================
+  RADIOMICS FEATURES - TUMOR ROI REGION
+  Patient: TCGA-AO-A03M
+  Extracted using PyRadiomics
+================================================================================
+
+============================================================
+  SHAPE FEATURES (14 features)
+============================================================
+
+  original_shape_Elongation: 0.605031
+  original_shape_Flatness: 0.378646
+  original_shape_LeastAxisLength: 79.750284
+  original_shape_MajorAxisLength: 210.619895
+  original_shape_Maximum2DDiameterColumn: 197.767651
+  original_shape_Maximum2DDiameterRow: 231.546965
+  original_shape_Maximum2DDiameterSlice: 174.485852
+  original_shape_Maximum3DDiameter: 236.186412
+  original_shape_MeshVolume: 1152452.114975
+  original_shape_MinorAxisLength: 127.431542
+  original_shape_Sphericity: 0.463087
+  original_shape_SurfaceArea: 114789.788962
+  original_shape_SurfaceVolumeRatio: 0.099605
+  original_shape_VoxelVolume: 1157368.857473
+
+============================================================
+  FIRSTORDER FEATURES (18 features)
+============================================================
+
+  original_firstorder_10Percentile: 0.000000
+  original_firstorder_90Percentile: 158.300000
+  original_firstorder_Energy: 168805687.000000
+  original_firstorder_Entropy: 2.646470
+  original_firstorder_InterquartileRange: 79.000000
+  original_firstorder_Kurtosis: 11.891026
+  original_firstorder_Maximum: 863.000000
+  original_firstorder_Mean: 57.715699
+  original_firstorder_MeanAbsoluteDeviation: 54.756390
+  original_firstorder_Median: 29.000000
+  original_firstorder_Minimum: 0.000000
+  original_firstorder_Range: 863.000000
+  original_firstorder_RobustMeanAbsoluteDeviation: 33.254123
+  original_firstorder_RootMeanSquared: 95.528102
+  original_firstorder_Skewness: 2.405610
+  original_firstorder_TotalEnergy: 10561706405.994921
+  original_firstorder_Uniformity: 0.261003
+  original_firstorder_Variance: 5794.516373
+
+============================================================
+  GLCM FEATURES (24 features)
+============================================================
+
+  original_glcm_Autocorrelation: 11.969195
+  original_glcm_ClusterProminence: 5365.360772
+  original_glcm_ClusterShade: 235.384932
+  original_glcm_ClusterTendency: 23.901950
+  original_glcm_Contrast: 11.821862
+  original_glcm_Correlation: 0.337459
+  original_glcm_DifferenceAverage: 2.031851
+  original_glcm_DifferenceEntropy: 2.723518
+  original_glcm_DifferenceVariance: 7.410103
+  original_glcm_Id: 0.565296
+  original_glcm_Idm: 0.513345
+  original_glcm_Idmn: 0.991132
+  original_glcm_Idn: 0.949689
+  original_glcm_Imc1: -0.071279
+  original_glcm_Imc2: 0.455650
+  original_glcm_InverseVariance: 0.288370
+  original_glcm_JointAverage: 2.991508
+  original_glcm_JointEnergy: 0.096916
+  original_glcm_JointEntropy: 5.154149
+  original_glcm_MCC: 0.393080
+  original_glcm_MaximumProbability: 0.274416
+  original_glcm_SumAverage: 5.983017
+  original_glcm_SumEntropy: 3.555888
+  original_glcm_SumSquares: 8.930953
+
+============================================================
+  GLRLM FEATURES (16 features)
+============================================================
+
+  original_glrlm_GrayLevelNonUniformity: 2309.186611
+  original_glrlm_GrayLevelNonUniformityNormalized: 0.176017
+  original_glrlm_GrayLevelVariance: 10.605485
+  original_glrlm_HighGrayLevelRunEmphasis: 23.543767
+  original_glrlm_LongRunEmphasis: 3.674534
+  original_glrlm_LongRunHighGrayLevelEmphasis: 31.529097
+  original_glrlm_LongRunLowGrayLevelEmphasis: 2.739864
+  original_glrlm_LowGrayLevelRunEmphasis: 0.391179
+  original_glrlm_RunEntropy: 4.074316
+  original_glrlm_RunLengthNonUniformity: 7925.118777
+  original_glrlm_RunLengthNonUniformityNormalized: 0.605386
+  original_glrlm_RunPercentage: 0.698645
+  original_glrlm_RunVariance: 1.497540
+  original_glrlm_ShortRunEmphasis: 0.804641
+  original_glrlm_ShortRunHighGrayLevelEmphasis: 22.335915
+  original_glrlm_ShortRunLowGrayLevelEmphasis: 0.249934
+
+============================================================
+  GLSZM FEATURES (16 features)
+============================================================
+
+  original_glszm_GrayLevelNonUniformity: 214.255721
+  original_glszm_GrayLevelNonUniformityNormalized: 0.086012
+  original_glszm_GrayLevelVariance: 18.193461
+  original_glszm_HighGrayLevelZoneEmphasis: 62.757527
+  original_glszm_LargeAreaEmphasis: 30355.709354
+  original_glszm_LargeAreaHighGrayLevelEmphasis: 38829.413087
+  original_glszm_LargeAreaLowGrayLevelEmphasis: 28596.632114
+  original_glszm_LowGrayLevelZoneEmphasis: 0.075075
+  original_glszm_SizeZoneNonUniformity: 917.581293
+  original_glszm_SizeZoneNonUniformityNormalized: 0.368359
+  original_glszm_SmallAreaEmphasis: 0.629858
+  original_glszm_SmallAreaHighGrayLevelEmphasis: 46.584614
+  original_glszm_SmallAreaLowGrayLevelEmphasis: 0.041588
+  original_glszm_ZoneEntropy: 5.944922
+  original_glszm_ZonePercentage: 0.134663
+  original_glszm_ZoneVariance: 30300.564867
+
+============================================================
+  GLDM FEATURES (14 features)
+============================================================
+
+  original_gldm_DependenceEntropy: 6.299494
+  original_gldm_DependenceNonUniformity: 1041.979998
+  original_gldm_DependenceNonUniformityNormalized: 0.056329
+  original_gldm_DependenceVariance: 42.635191
+  original_gldm_GrayLevelNonUniformity: 4828.039896
+  original_gldm_GrayLevelVariance: 8.842817
+  original_gldm_HighGrayLevelEmphasis: 17.511190
+  original_gldm_LargeDependenceEmphasis: 120.696400
+  original_gldm_LargeDependenceHighGrayLevelEmphasis: 280.557790
+  original_gldm_LargeDependenceLowGrayLevelEmphasis: 108.908525
+  original_gldm_LowGrayLevelEmphasis: 0.522040
+  original_gldm_SmallDependenceEmphasis: 0.126834
+  original_gldm_SmallDependenceHighGrayLevelEmphasis: 7.466610
+  original_gldm_SmallDependenceLowGrayLevelEmphasis: 0.014056
+
+============================================================
+  NGTDM FEATURES (5 features)
+============================================================
+
+  original_ngtdm_Busyness: 51.180333
+  original_ngtdm_Coarseness: 0.000173
+  original_ngtdm_Complexity: 1051.914947
+  original_ngtdm_Contrast: 0.031538
+  original_ngtdm_Strength: 0.540400
+
+================================================================================
+  TOTAL FEATURES: 107
+================================================================================

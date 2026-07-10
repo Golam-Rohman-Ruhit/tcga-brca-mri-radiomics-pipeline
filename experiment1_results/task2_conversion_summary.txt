@@ -1,0 +1,95 @@
+3D Volume Conversion Summary
+==================================================
+
+Series: PJN
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nii.gz
+
+Series: Bind(11251/6/51..96)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_6_51..96).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_6_51..96).nii.gz
+
+Series: Bind(11251/7/193..242)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_193..242).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_193..242).nii.gz
+
+Series: Bind(11251/7/339..384)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_339..384).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_339..384).nii.gz
+
+Series: T2 right breast
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_T2_right_breast.nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_T2_right_breast.nii.gz
+
+Series: T2 left breast
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_T2_left_breast.nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_T2_left_breast.nii.gz
+
+Series: (11251/105/23)-(11251/103/23)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_(11251_105_23)-(11251_103_23).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_(11251_105_23)-(11251_103_23).nii.gz
+
+Series: Bind(11251/7/385..434)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_385..434).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_385..434).nii.gz
+
+Series: (11251/104/39)-(11251/102/39)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_(11251_104_39)-(11251_102_39).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_(11251_104_39)-(11251_102_39).nii.gz
+
+Series: Bind(11251/7/97..146)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_97..146).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_97..146).nii.gz
+
+Series: Bind(11251/7/147..192)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_147..192).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_147..192).nii.gz
+
+Series: PJN
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nii.gz
+
+Series: Bind(11251/7/243..288)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_243..288).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_243..288).nii.gz
+
+Series: Bind(11251/7/435..480)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_435..480).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_435..480).nii.gz
+
+Series: Bind(11251/7/1..50)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_1..50).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_1..50).nii.gz
+
+Series: Localization
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Localization.nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Localization.nii.gz
+
+Series: Bind(11251/5/51..96)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_5_51..96).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_5_51..96).nii.gz
+
+Series: Bind(11251/6/1..50)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_6_1..50).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_6_1..50).nii.gz
+
+Series: PJN
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nii.gz
+
+Series: Bind(11251/7/51..96)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_51..96).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_51..96).nii.gz
+
+Series: PJN
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_PJN.nii.gz
+
+Series: Bind(11251/5/1..50)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_5_1..50).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_5_1..50).nii.gz
+
+Series: Bind(11251/7/289..338)
+  NRRD file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_289..338).nrrd
+  NIfTI file: C:\Users\Asus\PycharmProjects\medical\experiment1_results\patient_volume_Bind(11251_7_289..338).nii.gz
+

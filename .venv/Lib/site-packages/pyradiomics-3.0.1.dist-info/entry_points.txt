@@ -1,0 +1,2 @@
+[console_scripts]
+pyradiomics = radiomics.scripts.__init__:parse_args

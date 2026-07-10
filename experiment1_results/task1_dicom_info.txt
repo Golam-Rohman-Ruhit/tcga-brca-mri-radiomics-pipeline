@@ -1,0 +1,23 @@
+============================================================
+DICOM FILE INFORMATION
+============================================================
+File: 0556c11d-5bb4-4561-975d-81ddad633688.dcm
+Patient Name: TCGA-AO-A03M
+Patient ID: TCGA-AO-A03M
+Patient Sex: F
+Patient Age: 029Y
+Study Date: 20010315
+Study Description: 
+Series Description: Bind(11251/7/193..242)
+Modality: MR
+Manufacturer: GE MEDICAL SYSTEMS
+Rows: 256
+Columns: 256
+Pixel Spacing: [0.8594, 0.8594]
+Slice Thickness: 3
+Bits Allocated: 16
+Bits Stored: 16
+Window Center: 361
+Window Width: 723
+Number of slices in series: 50
+============================================================

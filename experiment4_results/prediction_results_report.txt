@@ -1,0 +1,144 @@
+================================================================================
+  EXPERIMENT 4: BREAST CANCER SUBTYPE PREDICTION RESULTS
+  Dataset: dataset.xlsx (72 patients, 177 features)
+================================================================================
+
+============================================================
+  Model: SVM
+  Target: Mammaprint_type
+============================================================
+
+  5-Fold Cross-Validation Accuracy:
+    Fold 1: 0.8000
+    Fold 2: 0.7333
+    Fold 3: 0.8571
+    Fold 4: 0.7857
+    Fold 5: 0.7857
+    Mean:   0.7924 +/- 0.0396
+
+  Mean AUC: 0.6808
+    Fold 1: 0.5000
+    Fold 2: 0.5556
+    Fold 3: 0.8333
+    Fold 4: 0.6667
+    Fold 5: 0.8485
+
+  Confusion Matrix:
+[[ 0 14]
+ [ 1 57]]
+
+  Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000        14
+           1     0.8028    0.9828    0.8837        58
+
+    accuracy                         0.7917        72
+   macro avg     0.4014    0.4914    0.4419        72
+weighted avg     0.6467    0.7917    0.7119        72
+
+
+============================================================
+  Model: Logistic Regression
+  Target: Mammaprint_type
+============================================================
+
+  5-Fold Cross-Validation Accuracy:
+    Fold 1: 0.6667
+    Fold 2: 0.7333
+    Fold 3: 0.9286
+    Fold 4: 0.7857
+    Fold 5: 0.8571
+    Mean:   0.7943 +/- 0.0917
+
+  Mean AUC: 0.6641
+    Fold 1: 0.4722
+    Fold 2: 0.5833
+    Fold 3: 0.7500
+    Fold 4: 0.6061
+    Fold 5: 0.9091
+
+  Confusion Matrix:
+[[ 4 10]
+ [ 5 53]]
+
+  Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.4444    0.2857    0.3478        14
+           1     0.8413    0.9138    0.8760        58
+
+    accuracy                         0.7917        72
+   macro avg     0.6429    0.5998    0.6119        72
+weighted avg     0.7641    0.7917    0.7733        72
+
+
+============================================================
+  Model: SVM
+  Target: GHI_RS_Score
+============================================================
+
+  5-Fold Cross-Validation Accuracy:
+    Fold 1: 0.8000
+    Fold 2: 0.6667
+    Fold 3: 0.7143
+    Fold 4: 0.3571
+    Fold 5: 0.7143
+    Mean:   0.6505 +/- 0.1528
+
+  Mean AUC: 0.6617
+    Fold 1: 0.6964
+    Fold 2: 0.7143
+    Fold 3: 0.7959
+    Fold 4: 0.3878
+    Fold 5: 0.7143
+
+  Confusion Matrix:
+[[25 11]
+ [14 22]]
+
+  Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.6410    0.6944    0.6667        36
+           1     0.6667    0.6111    0.6377        36
+
+    accuracy                         0.6528        72
+   macro avg     0.6538    0.6528    0.6522        72
+weighted avg     0.6538    0.6528    0.6522        72
+
+
+============================================================
+  Model: Logistic Regression
+  Target: GHI_RS_Score
+============================================================
+
+  5-Fold Cross-Validation Accuracy:
+    Fold 1: 0.8000
+    Fold 2: 0.6000
+    Fold 3: 0.5000
+    Fold 4: 0.4286
+    Fold 5: 0.4286
+    Mean:   0.5514 +/- 0.1393
+
+  Mean AUC: 0.6281
+    Fold 1: 0.8036
+    Fold 2: 0.6429
+    Fold 3: 0.6122
+    Fold 4: 0.4286
+    Fold 5: 0.6531
+
+  Confusion Matrix:
+[[21 15]
+ [17 19]]
+
+  Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.5526    0.5833    0.5676        36
+           1     0.5588    0.5278    0.5429        36
+
+    accuracy                         0.5556        72
+   macro avg     0.5557    0.5556    0.5552        72
+weighted avg     0.5557    0.5556    0.5552        72
+
